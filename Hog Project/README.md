@@ -17,9 +17,10 @@ In a normal game of Hog, those are all the rules. To spice up the game, we'll in
 
 Below is a list of all the files you will see in the archive. 
 
-hog.py: A starter implementation of Hog
-dice.py: Functions for rolling dice
-hog_gui.py: A graphical user interface (GUI) for Hog
-ucb.py: Utility functions for CS 61A
-tests: A directory of tests used by ok
-gui_files: A directory of various things used by the web GUI
+- hog.py: A starter implementation of Hog
+- dice.py: Functions for rolling dice
+- hog_gui.py: A graphical user interface (GUI) for Hog
+- ucb.py: Utility functions for CS 61A
+- gui_files: A directory of various things used by the web GUI
+- ok: CS 61A autograder
+- tests: A directory of tests used by ok
