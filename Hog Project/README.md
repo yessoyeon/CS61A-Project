@@ -22,5 +22,4 @@ Below is a list of all the files you will see in the archive.
 - hog_gui.py: A graphical user interface (GUI) for Hog
 - ucb.py: Utility functions for CS 61A
 - gui_files: A directory of various things used by the web GUI
-- ok: CS 61A autograder
 - tests: A directory of tests used by ok
