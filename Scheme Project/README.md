@@ -14,4 +14,3 @@ This project includes several files, but all of my changes will be made to only 
 - questions.scm: contains skeleton code for Phase III
 - tests.scm: a collection of test cases written in Scheme
 - tests: a directory of tests used by ok
-- mytests.rst: a file where you can add your own tests
